@@ -1,8 +1,5 @@
 <a href="http://qingdongcheng.byethost4.com/pixelartmaker.html"># Pixel Art Maker Project</a>
 
-It is online now. See it <a href="http://qingdongcheng.byethost4.com/pixelartmaker.html">here</a>.
-
-
 ## Table of Contents
 
 * [Instructions](#instructions)
